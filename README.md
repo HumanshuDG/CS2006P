@@ -2,4 +2,4 @@
 
 Modern Application Development - II
 
-# ***[Blog Lite Application](https://BLOG-Lite.humanshudg.repl.co)***
+# ***[Kanban v2 Application](https://KANBAN-v2.humanshudg.repl.co)***
